@@ -84,6 +84,8 @@ INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3
 INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
 INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
 INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\tex\latex\comment\comment.sty
+INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\tex\latex\comment\comment.sty
 INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
 INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
 INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
@@ -323,6 +325,10 @@ INPUT C:\Users\lnztadil\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\images\DHBW_d_R_FN_46mm_4c.jpg
 INPUT .\images\DHBW_d_R_FN_46mm_4c.jpg
 INPUT .\images\DHBW_d_R_FN_46mm_4c.jpg
+INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
+INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
+INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi9.tfm
+INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy9.tfm
 INPUT .\images\DHBW_d_R_FN_46mm_4c.jpg
 INPUT .\images\DHBW_d_R_FN_46mm_4c.jpg
 INPUT .\images\DHBW_d_R_FN_46mm_4c.jpg
@@ -335,3 +341,5 @@ INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfont
 INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb
+INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb

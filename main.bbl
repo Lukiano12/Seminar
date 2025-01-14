@@ -16,5 +16,42 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{dlf_shell_2021}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=9378f4ee9e89743a9ae3249ae0012ace}{%
+           family={{Deutschlandfunk}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{9378f4ee9e89743a9ae3249ae0012ace}
+      \strng{fullhash}{9378f4ee9e89743a9ae3249ae0012ace}
+      \strng{fullhashraw}{9378f4ee9e89743a9ae3249ae0012ace}
+      \strng{bibnamehash}{9378f4ee9e89743a9ae3249ae0012ace}
+      \strng{authorbibnamehash}{9378f4ee9e89743a9ae3249ae0012ace}
+      \strng{authornamehash}{9378f4ee9e89743a9ae3249ae0012ace}
+      \strng{authorfullhash}{9378f4ee9e89743a9ae3249ae0012ace}
+      \strng{authorfullhashraw}{9378f4ee9e89743a9ae3249ae0012ace}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Shell verliert Klima-Prozess -- Das Urteil von Den Haag und die Folgen}
+      \field{urlday}{14}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.deutschlandfunk.de/shell-verliert-klima-prozess-das-urteil-von-den-haag-und-100.html
+      \endverb
+      \verb{url}
+      \verb https://www.deutschlandfunk.de/shell-verliert-klima-prozess-das-urteil-von-den-haag-und-100.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
