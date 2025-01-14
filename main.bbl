@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{dlf_shell_2021}{online}{}{}
+    \entry{deutschlandfunk_shell_2021}{online}{}{}
       \name{author}{1}{}{%
         {{hash=9378f4ee9e89743a9ae3249ae0012ace}{%
            family={{Deutschlandfunk}},
@@ -37,15 +37,11 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Veröffentlicht am: 28. Mai 2021}
-      \field{day}{28}
-      \field{month}{5}
-      \field{title}{Shell verliert Klima-Prozess -- Das Urteil von Den Haag und die Folgen}
+      \field{note}{Veröffentlicht am 28. Mai 2021.}
+      \field{title}{Shell verliert Klima-Prozess – Das Urteil von Den Haag und die Folgen}
       \field{urlday}{14}
       \field{urlmonth}{1}
       \field{urlyear}{2025}
-      \field{year}{2021}
-      \field{dateera}{ce}
       \field{urldateera}{ce}
       \true{nocite}
       \verb{urlraw}
@@ -53,6 +49,38 @@
       \endverb
       \verb{url}
       \verb https://www.deutschlandfunk.de/shell-verliert-klima-prozess-das-urteil-von-den-haag-und-100.html
+      \endverb
+    \endentry
+    \entry{lto_shell_klimaschutz_2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=2cb76306abf229c02cbef373c162c9dd}{%
+           family={{Legal Tribune Online}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cb76306abf229c02cbef373c162c9dd}
+      \strng{fullhash}{2cb76306abf229c02cbef373c162c9dd}
+      \strng{fullhashraw}{2cb76306abf229c02cbef373c162c9dd}
+      \strng{bibnamehash}{2cb76306abf229c02cbef373c162c9dd}
+      \strng{authorbibnamehash}{2cb76306abf229c02cbef373c162c9dd}
+      \strng{authornamehash}{2cb76306abf229c02cbef373c162c9dd}
+      \strng{authorfullhash}{2cb76306abf229c02cbef373c162c9dd}
+      \strng{authorfullhashraw}{2cb76306abf229c02cbef373c162c9dd}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Veröffentlicht am 12. November 2024.}
+      \field{title}{Shell muss CO2-Ausstoß doch nicht senken}
+      \field{urlday}{14}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.lto.de/recht/nachrichten/n/klimaschutz-shell-berufungsinstanz-den-haag-umweltvoelkerrecht
+      \endverb
+      \verb{url}
+      \verb https://www.lto.de/recht/nachrichten/n/klimaschutz-shell-berufungsinstanz-den-haag-umweltvoelkerrecht
       \endverb
     \endentry
   \enddatalist

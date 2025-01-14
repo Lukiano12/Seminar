@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.9)  14 JAN 2025 14:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.9)  14 JAN 2025 15:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1232,17 +1232,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 ### semi simple group (level 1) entered at line 140 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 31050 strings out of 473576
- 629620 string characters out of 5714857
- 1495692 words of memory out of 5000000
- 53876 multiletter control sequences out of 15000+600000
+ 31054 strings out of 473576
+ 629884 string characters out of 5714857
+ 1495727 words of memory out of 5000000
+ 53879 multiletter control sequences out of 15000+600000
  563151 words of font info for 53 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  110i,25n,107p,742b,2477s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (3 pages, 61769 bytes).
+Output written on main.pdf (3 pages, 63627 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
+ 57 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
  22 words of extra memory for PDF output out of 10000 (max. 10000000)
 
