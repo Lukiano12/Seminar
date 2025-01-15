@@ -18,32 +18,43 @@
 
 
 \refsection{0}
-  \datalist[entry]{none/global//global/global/global}
-    \entry{deutschlandfunk_shell_2021}{online}{}{}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{deutschlandfunk.deShellVerliertKlimaProzess2021}{online}{}{}
       \name{author}{1}{}{%
-        {{hash=9378f4ee9e89743a9ae3249ae0012ace}{%
-           family={{Deutschlandfunk}},
-           familyi={D\bibinitperiod}}}%
+        {{hash=9b893eb57d0183179bb79bde24fcc371}{%
+           family={{deutschlandfunk.de}},
+           familyi={d\bibinitperiod}}}%
       }
-      \strng{namehash}{9378f4ee9e89743a9ae3249ae0012ace}
-      \strng{fullhash}{9378f4ee9e89743a9ae3249ae0012ace}
-      \strng{fullhashraw}{9378f4ee9e89743a9ae3249ae0012ace}
-      \strng{bibnamehash}{9378f4ee9e89743a9ae3249ae0012ace}
-      \strng{authorbibnamehash}{9378f4ee9e89743a9ae3249ae0012ace}
-      \strng{authornamehash}{9378f4ee9e89743a9ae3249ae0012ace}
-      \strng{authorfullhash}{9378f4ee9e89743a9ae3249ae0012ace}
-      \strng{authorfullhashraw}{9378f4ee9e89743a9ae3249ae0012ace}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \list{organization}{1}{%
+        {Deutschlandfunk}%
+      }
+      \strng{namehash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{fullhash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{fullhashraw}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{bibnamehash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{authorbibnamehash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{authornamehash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{authorfullhash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{authorfullhashraw}{9b893eb57d0183179bb79bde24fcc371}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Veröffentlicht am 28. Mai 2021.}
-      \field{title}{Shell verliert Klima-Prozess – Das Urteil von Den Haag und die Folgen}
-      \field{urlday}{14}
+      \field{abstract}{Der größte Ölkonzern Europas muss nach einem Urteil eines niederländischen Gerichts seine CO2-Emissionen drastisch reduzieren. Experten sind überzeugt: Das Urteil wird weitreichende Auswirkungen haben - nicht nur für den Energiesektor. Ein Überblick.}
+      \field{day}{28}
+      \field{langid}{ngerman}
+      \field{month}{5}
+      \field{title}{Shell verliert Klima-Prozess - Das Urteil von Den Haag und die Folgen}
+      \field{urlday}{15}
       \field{urlmonth}{1}
       \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
       \true{nocite}
+      \verb{file}
+      \verb C:\Users\lnztadil\Zotero\storage\CFK77YP7\shell-verliert-klima-prozess-das-urteil-von-den-haag-und-100.html
+      \endverb
       \verb{urlraw}
       \verb https://www.deutschlandfunk.de/shell-verliert-klima-prozess-das-urteil-von-den-haag-und-100.html
       \endverb
@@ -51,31 +62,42 @@
       \verb https://www.deutschlandfunk.de/shell-verliert-klima-prozess-das-urteil-von-den-haag-und-100.html
       \endverb
     \endentry
-    \entry{lto_shell_klimaschutz_2024}{online}{}{}
+    \entry{ltoHistorischesKlimaurteilGegen2024}{online}{}{}
       \name{author}{1}{}{%
-        {{hash=2cb76306abf229c02cbef373c162c9dd}{%
-           family={{Legal Tribune Online}},
+        {{hash=d7eaeeec4336bac3045b099ea33ad631}{%
+           family={LTO},
            familyi={L\bibinitperiod}}}%
       }
-      \strng{namehash}{2cb76306abf229c02cbef373c162c9dd}
-      \strng{fullhash}{2cb76306abf229c02cbef373c162c9dd}
-      \strng{fullhashraw}{2cb76306abf229c02cbef373c162c9dd}
-      \strng{bibnamehash}{2cb76306abf229c02cbef373c162c9dd}
-      \strng{authorbibnamehash}{2cb76306abf229c02cbef373c162c9dd}
-      \strng{authornamehash}{2cb76306abf229c02cbef373c162c9dd}
-      \strng{authorfullhash}{2cb76306abf229c02cbef373c162c9dd}
-      \strng{authorfullhashraw}{2cb76306abf229c02cbef373c162c9dd}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \list{organization}{1}{%
+        {Legal Tribune Online}%
+      }
+      \strng{namehash}{d7eaeeec4336bac3045b099ea33ad631}
+      \strng{fullhash}{d7eaeeec4336bac3045b099ea33ad631}
+      \strng{fullhashraw}{d7eaeeec4336bac3045b099ea33ad631}
+      \strng{bibnamehash}{d7eaeeec4336bac3045b099ea33ad631}
+      \strng{authorbibnamehash}{d7eaeeec4336bac3045b099ea33ad631}
+      \strng{authornamehash}{d7eaeeec4336bac3045b099ea33ad631}
+      \strng{authorfullhash}{d7eaeeec4336bac3045b099ea33ad631}
+      \strng{authorfullhashraw}{d7eaeeec4336bac3045b099ea33ad631}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Veröffentlicht am 12. November 2024.}
-      \field{title}{Shell muss CO2-Ausstoß doch nicht senken}
-      \field{urlday}{14}
+      \field{abstract}{Shell muss seinen CO2-Ausstoß doch nicht drastisch reduzieren. Ein Urteil aus den Niederlanden aus 2021 hatte in der zweiten Instanz keinen Bestand.}
+      \field{day}{12}
+      \field{langid}{ngerman}
+      \field{month}{11}
+      \field{title}{Historisches Klimaurteil gegen Shell kassiert}
+      \field{urlday}{15}
       \field{urlmonth}{1}
       \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
       \true{nocite}
+      \verb{file}
+      \verb C:\Users\lnztadil\Zotero\storage\3GA99P53\klimaschutz-shell-berufungsinstanz-den-haag-umweltvoelkerrecht.html
+      \endverb
       \verb{urlraw}
       \verb https://www.lto.de/recht/nachrichten/n/klimaschutz-shell-berufungsinstanz-den-haag-umweltvoelkerrecht
       \endverb
