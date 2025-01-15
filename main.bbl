@@ -19,6 +19,105 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global/global}
+    \entry{alognaClimateChangeLitigation2021}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=2e913837ffbf4b542f32abd6ff8ff55e}{%
+           family={Alogna},
+           familyi={A\bibinitperiod},
+           given={Ivano},
+           giveni={I\bibinitperiod}}}%
+        {{hash=58a5964997aa267dea41c82b3f88c5a2}{%
+           family={Bakker},
+           familyi={B\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=be786776a4eb7f37d026a546d6fe5f50}{%
+           family={Gauci},
+           familyi={G\bibinitperiod},
+           given={Jean-Pierre},
+           giveni={J\bibinithyphendelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{c179a98a59e0cb2d7702f72a769a455c}
+      \strng{fullhash}{c179a98a59e0cb2d7702f72a769a455c}
+      \strng{fullhashraw}{c179a98a59e0cb2d7702f72a769a455c}
+      \strng{bibnamehash}{c179a98a59e0cb2d7702f72a769a455c}
+      \strng{authorbibnamehash}{c179a98a59e0cb2d7702f72a769a455c}
+      \strng{authornamehash}{c179a98a59e0cb2d7702f72a769a455c}
+      \strng{authorfullhash}{c179a98a59e0cb2d7702f72a769a455c}
+      \strng{authorfullhashraw}{c179a98a59e0cb2d7702f72a769a455c}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{"Climate Change Litigation: Global Perspectives" published on 26 Apr 2021 by Brill | Nijhoff.}
+      \field{day}{26}
+      \field{isbn}{978-90-04-44761-5}
+      \field{langid}{ngerman}
+      \field{month}{4}
+      \field{shorttitle}{Climate Change Litigation}
+      \field{title}{Climate Change Litigation: Global Perspectives}
+      \field{urlday}{15}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://brill.com/edcollbook/title/59537
+      \endverb
+      \verb{url}
+      \verb https://brill.com/edcollbook/title/59537
+      \endverb
+      \keyw{Internationales Recht,Internationales Strafrecht,Menschenrechte und Humanitäres Recht,Umwelt- & Energierecht}
+    \endentry
+    \entry{deutschlandfunk.deKlimaschutzBerufungsgerichtEntscheidet2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=9b893eb57d0183179bb79bde24fcc371}{%
+           family={{deutschlandfunk.de}},
+           familyi={d\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Die Nachrichten}%
+      }
+      \strng{namehash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{fullhash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{fullhashraw}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{bibnamehash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{authorbibnamehash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{authornamehash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{authorfullhash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{authorfullhashraw}{9b893eb57d0183179bb79bde24fcc371}
+      \field{extraname}{1}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ein Berufungsgericht in den Niederlanden will heute seine Entscheidung im Klimaschutzverfahren gegen den Energiekonzern Shell verkünden.}
+      \field{day}{12}
+      \field{langid}{ngerman}
+      \field{month}{11}
+      \field{title}{Klimaschutz - Berufungsgericht entscheidet im Prozess gegen Shell}
+      \field{urlday}{15}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb C:\Users\lnztadil\Zotero\storage\84GNXNE9\berufungsgericht-entscheidet-im-prozess-gegen-shell-100.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.deutschlandfunk.de/berufungsgericht-entscheidet-im-prozess-gegen-shell-100.html
+      \endverb
+      \verb{url}
+      \verb https://www.deutschlandfunk.de/berufungsgericht-entscheidet-im-prozess-gegen-shell-100.html
+      \endverb
+    \endentry
     \entry{deutschlandfunk.deShellVerliertKlimaProzess2021}{online}{}{}
       \name{author}{1}{}{%
         {{hash=9b893eb57d0183179bb79bde24fcc371}{%
@@ -36,6 +135,7 @@
       \strng{authornamehash}{9b893eb57d0183179bb79bde24fcc371}
       \strng{authorfullhash}{9b893eb57d0183179bb79bde24fcc371}
       \strng{authorfullhashraw}{9b893eb57d0183179bb79bde24fcc371}
+      \field{extraname}{2}
       \field{sortinit}{d}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{labelnamesource}{author}
