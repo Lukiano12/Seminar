@@ -207,7 +207,7 @@
       \verb https://www.deutschlandfunk.de/berufungsgericht-entscheidet-im-prozess-gegen-shell-100.html
       \endverb
     \endentry
-    \entry{deutschlandfunk.deShellVerliertKlimaProzess2021}{online}{}{}
+    \entry{deutschlandfunk.deKommentarShellGericht2024}{online}{}{}
       \name{author}{1}{}{%
         {{hash=9b893eb57d0183179bb79bde24fcc371}{%
            family={{deutschlandfunk.de}},
@@ -225,6 +225,51 @@
       \strng{authorfullhash}{9b893eb57d0183179bb79bde24fcc371}
       \strng{authorfullhashraw}{9b893eb57d0183179bb79bde24fcc371}
       \field{extraname}{2}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In den Niederlangen ist ein weitreichendes Klimaurteil aus dem Jahr 2021 gegen Shell gekippt worden. Das heißt aber nicht, dass ein Gericht nun eingeknickt ist.}
+      \field{day}{12}
+      \field{langid}{ngerman}
+      \field{month}{11}
+      \field{shorttitle}{Kommentar zu Shell}
+      \field{title}{Kommentar zu Shell: Das Gericht ist nicht eingeknickt}
+      \field{urlday}{16}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb C:\Users\lnztadil\Zotero\storage\9G6PR9R2\kommentar-urteil-shell-100.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.deutschlandfunk.de/kommentar-urteil-shell-100.html
+      \endverb
+      \verb{url}
+      \verb https://www.deutschlandfunk.de/kommentar-urteil-shell-100.html
+      \endverb
+    \endentry
+    \entry{deutschlandfunk.deShellVerliertKlimaProzess2021}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=9b893eb57d0183179bb79bde24fcc371}{%
+           family={{deutschlandfunk.de}},
+           familyi={d\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Deutschlandfunk}%
+      }
+      \strng{namehash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{fullhash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{fullhashraw}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{bibnamehash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{authorbibnamehash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{authornamehash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{authorfullhash}{9b893eb57d0183179bb79bde24fcc371}
+      \strng{authorfullhashraw}{9b893eb57d0183179bb79bde24fcc371}
+      \field{extraname}{3}
       \field{sortinit}{d}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{labelnamesource}{author}
