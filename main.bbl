@@ -318,6 +318,51 @@
       \verb https://www.deutschlandfunk.de/shell-verliert-klima-prozess-das-urteil-von-den-haag-und-100.html
       \endverb
     \endentry
+    \entry{Hansen2023Destruktive}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=aaf8ae1951d35612603516a9bc3ab761}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Gerrit},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Stiftung Wissenschaft und Politik (SWP)}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \strng{namehash}{aaf8ae1951d35612603516a9bc3ab761}
+      \strng{fullhash}{aaf8ae1951d35612603516a9bc3ab761}
+      \strng{fullhashraw}{aaf8ae1951d35612603516a9bc3ab761}
+      \strng{bibnamehash}{aaf8ae1951d35612603516a9bc3ab761}
+      \strng{authorbibnamehash}{aaf8ae1951d35612603516a9bc3ab761}
+      \strng{authornamehash}{aaf8ae1951d35612603516a9bc3ab761}
+      \strng{authorfullhash}{aaf8ae1951d35612603516a9bc3ab761}
+      \strng{authorfullhashraw}{aaf8ae1951d35612603516a9bc3ab761}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Die diesjährigen Zwischenverhandlungen der Klimarahmenkonvention der Vereinten Nationen (UNFCCC) in Bonn geben wenig Grund zum Optimismus. Verhärtete Fronten vor allem zwischen einigen großen Schwellenländern und den Industriestaaten präg\&\#x00ad;ten das Treffen. Un\&\#x00ad;einig\&\#x00ad;keit darüber, wie die \&\#x00bb;gemeinsame, aber differenzierte Ver\&\#x00ad;antwortung\&\#x00ab; und das Gerechtigkeitsprinzip auszu\&\#x00ad;legen seien, verhinderten substantielle Fortschritte. Die Vor\&\#x00ad;bereitungen für die erste Globale Bestandsaufnahme zur Ambi\&\#x00ad;tions\&\#x00ad;steigerung im Rah\&\#x00ad;men des Klimaabkommens von Paris, die bei der 28. Vertrags\&\#x00ad;staaten\&\#x00ad;konferenz (COP28) im Dezember in Dubai abgeschlossen werden soll, verliefen ent\&\#x00ad;täuschend. Gleichzeitig versuchten einige Schwellenländer und insbesondere China, die Bedeutung des sechs\&\#x00ad;ten Sachstandsberichts (AR6) des Weltklimarates IPCC als gemein\&\#x00ad;same wissenschaft\&\#x00ad;liche Basis zu relativieren. Sollte China bei dieser Haltung bleiben, drohen nega\&\#x00ad;tive Konsequenzen für den multilateralen Klimaprozess weit über die COP28 hinaus.}
+      \field{langid}{german}
+      \field{number}{46/2023}
+      \field{title}{Destruktive ambiguität bremst fortschritte im UN-klimaprozess: In bonn standen zentrale säulen des pariser abkommens unter beschuss}
+      \field{type}{SWP-Aktuell}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.18449/2023A46
+      \endverb
+      \verb{urlraw}
+      \verb https://hdl.handle.net/10419/279921
+      \endverb
+      \verb{url}
+      \verb https://hdl.handle.net/10419/279921
+      \endverb
+      \keyw{320,Artikel 2 Pariser Abkommen,Bridgetown-Agenda,COP28 Dubai,Global Stocktake,Globale Bestandsaufnahme,GST,IPCC,Klimaabkommen von Paris,Klimafinanzierung,Klimaprozess und wissenschaftliche Erkenntnisse,nationale Klimabeiträge,NDCs,Pariser Klimaabkommen,Prinzipien des Pariser Klimaabkommens,UN-Klimaprozess,UN-Klimarahmenkonvention,UNFCCC}
+    \endentry
     \entry{KlimaklageUrgendaGegen}{online}{}{}
       \list{organization}{1}{%
         {LUTHER Rechtsanwaltsgesellschaft mbH}%
