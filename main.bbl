@@ -318,6 +318,92 @@
       \verb https://www.deutschlandfunk.de/shell-verliert-klima-prozess-das-urteil-von-den-haag-und-100.html
       \endverb
     \endentry
+    \entry{Frank2019}{incollection}{}{}
+      \name{author}{3}{}{%
+        {{hash=5baed3d4fa83b64104ae801dc6c329f2}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Will},
+           giveni={W\bibinitperiod}}}%
+        {{hash=ea8c3b9b408a2b60c1b9ed7165f1e530}{%
+           family={Bals},
+           familyi={B\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=200a8403d34f9fe3e764dae52ee04b2d}{%
+           family={Grimm},
+           familyi={G\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=ab44689bd403df62f2a14bcee56f12f5}{%
+           family={Mechler},
+           familyi={M\bibinitperiod},
+           given={Reinhard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=aa210411d7e04857845e1cb9049080ad}{%
+           family={Bouwer},
+           familyi={B\bibinitperiod},
+           given={Laurens\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=3af7ca3a4ab4c4a075ce6931c27f8205}{%
+           family={Schinko},
+           familyi={S\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4d905e8dd622c73c968ccac4c269c7bc}{%
+           family={Surminski},
+           familyi={S\bibinitperiod},
+           given={Swenja},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5a655c77e8218199eff3835af81311e3}{%
+           family={Linnerooth-Bayer},
+           familyi={L\bibinithyphendelim B\bibinitperiod},
+           given={JoAnne},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{a458f763d26c8052fb0641037868391a}
+      \strng{fullhash}{a458f763d26c8052fb0641037868391a}
+      \strng{fullhashraw}{a458f763d26c8052fb0641037868391a}
+      \strng{bibnamehash}{a458f763d26c8052fb0641037868391a}
+      \strng{authorbibnamehash}{a458f763d26c8052fb0641037868391a}
+      \strng{authornamehash}{a458f763d26c8052fb0641037868391a}
+      \strng{authorfullhash}{a458f763d26c8052fb0641037868391a}
+      \strng{authorfullhashraw}{a458f763d26c8052fb0641037868391a}
+      \strng{editorbibnamehash}{8b3342ec6308e0a72bc89322b8e39e18}
+      \strng{editornamehash}{8b3342ec6308e0a72bc89322b8e39e18}
+      \strng{editorfullhash}{189e4b8c2df2c4abdd6e16285ad6f5ab}
+      \strng{editorfullhashraw}{189e4b8c2df2c4abdd6e16285ad6f5ab}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The civil lawCivil lawcase brought forward in 2016 by the Peruvian Saúl Luciano Lliuya with the support of the NGO Germanwatch against the German energy company RWE is the first climate lawsuit in Germany. It addresses the question whether and how the biggest greenhouse-gas emitters, such as energy suppliers, may be held liable for lossesLossesand damages caused by climate changeClimate change. Specifically, the plaintiff sued the company for a contribution to safety measures that help avoid the outburst of a glacial lagoon fuelled by glacial retreat linked to anthropogenic climate changeClimate change. The requested support for necessary risk managementRisk managementmeasures at the lake to reduce the riskRiskof floodingFloodingare commensurate with the causal contribution of the company's share in historical CO2 emissions, approximately 0.5\%. After having been rejected by a district court in November 2017, the Court of Appeals accepted the case and took it forward to the evidentiary phase. This decision marks the first time that a court acknowledged that a private company is in principal responsible for its share in causing climate damages. The lawsuit has raised the issue of responsibilityResponsibilityof large energy companies, and other emitters of greenhouse gas emissions, for climate changeClimate changein terms of liabilityLiabilityfor nuisance caused to private property. The acceptance of the case and its entering into the evidentiary phase has written legal history and the case may act as a model for lawsuits in other countries. Comparable legal bases for similar cases exist in numerous countries around the world. The decision thus may have implications for the responsibilityResponsibilityof great emitters all around the globe in terms of communicating the relevant litigationLitigationrisks to shareholders and building adequate financial reserves.}
+      \field{booktitle}{Loss and Damage from Climate Change: {{Concepts}}, Methods and Policy Options}
+      \field{isbn}{978-3-319-72026-5}
+      \field{title}{The Case of Huaraz: {{First}} Climate Lawsuit on Loss and Damage against an Energy Company before German Courts}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{475\bibrangedash 482}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/978-3-319-72026-5_20
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-72026-5_20
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-72026-5_20
+      \endverb
+    \endentry
     \entry{Hansen2023Destruktive}{report}{}{}
       \name{author}{1}{}{%
         {{hash=aaf8ae1951d35612603516a9bc3ab761}{%
@@ -362,6 +448,39 @@
       \verb https://hdl.handle.net/10419/279921
       \endverb
       \keyw{320,Artikel 2 Pariser Abkommen,Bridgetown-Agenda,COP28 Dubai,Global Stocktake,Globale Bestandsaufnahme,GST,IPCC,Klimaabkommen von Paris,Klimafinanzierung,Klimaprozess und wissenschaftliche Erkenntnisse,nationale Klimabeiträge,NDCs,Pariser Klimaabkommen,Prinzipien des Pariser Klimaabkommens,UN-Klimaprozess,UN-Klimarahmenkonvention,UNFCCC}
+    \endentry
+    \entry{Kanning_2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=b294699c2e3de1454766983c6fbf5b72}{%
+           family={Kanning},
+           familyi={K\bibinitperiod},
+           given={Arnald\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b294699c2e3de1454766983c6fbf5b72}
+      \strng{fullhash}{b294699c2e3de1454766983c6fbf5b72}
+      \strng{fullhashraw}{b294699c2e3de1454766983c6fbf5b72}
+      \strng{bibnamehash}{b294699c2e3de1454766983c6fbf5b72}
+      \strng{authorbibnamehash}{b294699c2e3de1454766983c6fbf5b72}
+      \strng{authornamehash}{b294699c2e3de1454766983c6fbf5b72}
+      \strng{authorfullhash}{b294699c2e3de1454766983c6fbf5b72}
+      \strng{authorfullhashraw}{b294699c2e3de1454766983c6fbf5b72}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Risk Regulation}
+      \field{number}{1}
+      \field{title}{Shell and the Climate Case: {{Is}} the Shell Group the “Cheapest Cost Avoider”?}
+      \field{volume}{15}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{201\bibrangedash 207}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1017/err.2024.5
+      \endverb
     \endentry
     \entry{KlimaklageUrgendaGegen}{online}{}{}
       \list{organization}{1}{%
