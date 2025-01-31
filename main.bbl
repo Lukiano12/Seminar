@@ -120,6 +120,51 @@
       \verb https://climatecasechart.com/non-us-case/armando-ferrao-carvalho-and-others-v-the-european-parliament-and-the-council/
       \endverb
     \endentry
+    \entry{bandaLitigatingClimateChange2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a8917298304f9ec33358ad456fd7b0d9}{%
+           family={Banda},
+           familyi={B\bibinitperiod},
+           given={Maria\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=eb02033417484b5c55ef6b88312abd4d}{%
+           family={Fulton},
+           familyi={F\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{536dcae65bb312947eedd79aa768b545}
+      \strng{fullhash}{536dcae65bb312947eedd79aa768b545}
+      \strng{fullhashraw}{536dcae65bb312947eedd79aa768b545}
+      \strng{bibnamehash}{536dcae65bb312947eedd79aa768b545}
+      \strng{authorbibnamehash}{536dcae65bb312947eedd79aa768b545}
+      \strng{authornamehash}{536dcae65bb312947eedd79aa768b545}
+      \strng{authorfullhash}{536dcae65bb312947eedd79aa768b545}
+      \strng{authorfullhashraw}{536dcae65bb312947eedd79aa768b545}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Environmental Law Reporter News \& Analysis}
+      \field{shortjournal}{Envtl. L. Rep. News \& Analysis}
+      \field{shorttitle}{Litigating {{Climate Change}} in {{National Courts}}}
+      \field{title}{Litigating {{Climate Change}} in {{National Courts}}: {{Recent Trends}} and {{Developments}} in {{Global Climate Law}}}
+      \field{volume}{47}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{10121}
+      \range{pages}{1}
+      \verb{file}
+      \verb C:\Users\lnztadil\Zotero\storage\9LJLEEM8\LandingPage.html
+      \endverb
+      \verb{urlraw}
+      \verb https://heinonline.org/HOL/Page?handle=hein.journals/elrna47&id=127&div=&collection=
+      \endverb
+      \verb{url}
+      \verb https://heinonline.org/HOL/Page?handle=hein.journals/elrna47&id=127&div=&collection=
+      \endverb
+    \endentry
     \entry{BeschlussVom24}{online}{}{}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
@@ -625,6 +670,30 @@
       \verb https://univ-lyon3.hal.science/hal-03129815
       \endverb
     \endentry
+    \entry{ParisAgreement2016}{article}{}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Context Object: ctx\_ver=Z39.88-2004\&rft\_val\_fmt=info\%3Aofi\%2Ffmt\%3Akev\%3Amtx\%3Ajournal\&rfr\_id=info\%3Asid\%2Focoins.info\%3Agenerator\&rft.genre=article\&rft.atitle=Paris Agreement\&rft.title=International Legal Materials\&rft.stitle=Int'l Legal Materials\&rft.date=2016\&rft.volume=55\&rft.spage=743\&rft\_id=https://heinonline.org/HOL/Page?handle\%3Dhein.journals/intlm55\%26id\%3D803\%26div\%3D\%26collection\%3D}
+      \field{journaltitle}{International Legal Materials}
+      \field{shortjournal}{Int'l Legal Materials}
+      \field{title}{Paris {{Agreement}}}
+      \field{volume}{55}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{743}
+      \range{pages}{1}
+      \verb{file}
+      \verb C:\Users\lnztadil\Zotero\storage\V492HMML\LandingPage.html
+      \endverb
+      \verb{urlraw}
+      \verb https://heinonline.org/HOL/Page?handle=hein.journals/intlm55&id=803&div=&collection=
+      \endverb
+      \verb{url}
+      \verb https://heinonline.org/HOL/Page?handle=hein.journals/intlm55&id=803&div=&collection=
+      \endverb
+    \endentry
     \entry{RechtlichesClimateCase2022}{online}{}{}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
@@ -675,6 +744,51 @@
       \endverb
       \verb{url}
       \verb https://www.shell.de/ueber-uns/newsroom/zur-sache/shell-begruesst-urteil-des-niederlaendischen-berufungsgerichts.html
+      \endverb
+    \endentry
+    \entry{Vanhala01052013}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=f2ee37de641551f5692ae5f41db18500}{%
+           family={Vanhala},
+           familyi={V\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{f2ee37de641551f5692ae5f41db18500}
+      \strng{fullhash}{f2ee37de641551f5692ae5f41db18500}
+      \strng{fullhashraw}{f2ee37de641551f5692ae5f41db18500}
+      \strng{bibnamehash}{f2ee37de641551f5692ae5f41db18500}
+      \strng{authorbibnamehash}{f2ee37de641551f5692ae5f41db18500}
+      \strng{authornamehash}{f2ee37de641551f5692ae5f41db18500}
+      \strng{authorfullhash}{f2ee37de641551f5692ae5f41db18500}
+      \strng{authorfullhashraw}{f2ee37de641551f5692ae5f41db18500}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Politics}
+      \field{number}{3}
+      \field{title}{The Comparative Politics of Courts and Climate Change}
+      \field{volume}{22}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{447\bibrangedash 474}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1080/09644016.2013.765686
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1080/09644016.2013.765686
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/09644016.2013.765686
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/09644016.2013.765686
       \endverb
     \endentry
   \enddatalist
