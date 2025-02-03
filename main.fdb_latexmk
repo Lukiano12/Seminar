@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1738586556.98441 "main.bcf" "main.bbl" "main" 1738592480.30786 0
-  "literatur.bib" 1738586548 16584 1cb90ecadc900fba26f1c7a3186e5824 ""
-  "main.bcf" 1738592479 108556 0e3bab7c713e3380c6b13d1ecee53ced "pdflatex"
+["biber main"] 1738594669.51165 "main.bcf" "main.bbl" "main" 1738594694.73727 0
+  "literatur.bib" 1738594662 15000 3dbe7758723e90b0332683358877a495 ""
+  "main.bcf" 1738594693 108556 0e3bab7c713e3380c6b13d1ecee53ced "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1738592476.38392 "g:/Seminar Gliederung und Literaturverzeichnis/main.tex" "main.pdf" "main" 1738592480.31418 0
+["pdflatex"] 1738594689.85704 "g:/Seminar Gliederung und Literaturverzeichnis/main.tex" "main.pdf" "main" 1738594694.74337 0
   "C:/Users/lnztadil/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1736858043 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/lnztadil/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1736418097 11995304 639aba1e8c212e3b0ab6a8aed7b309d5 ""
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -152,12 +152,12 @@
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693732032 123 a302f2c651a95033260db60e51527ae8 ""
   "g:/Seminar Gliederung und Literaturverzeichnis/main.tex" 1738592468 5165 afd68c399a2e56ee9ccfa10ea83354af ""
   "images/DHBW_d_R_FN_46mm_4c.jpg" 1736232917 17946 50287553cf5cb047b6c145a2811653f1 ""
-  "main.aux" 1738592478 3207 3b1e347fcc1565482d2dd43d15c1ec96 "pdflatex"
-  "main.bbl" 1738586564 44869 6472446f951607cd9ae73318f003580f "biber main"
-  "main.out" 1738592478 485 6a168ae3a98bd56ea92e70deb1747a79 "pdflatex"
-  "main.run.xml" 1738592479 2334 1b5b1514c9fec959a0c2940f259774d3 "pdflatex"
+  "main.aux" 1738594692 3090 f3bbc2765da48c573bc942d4e1c15b2c "pdflatex"
+  "main.bbl" 1738594678 41376 a53f03fb59ed41a6bf2649dbdf8625af "biber main"
+  "main.out" 1738594693 485 6a168ae3a98bd56ea92e70deb1747a79 "pdflatex"
+  "main.run.xml" 1738594693 2334 1b5b1514c9fec959a0c2940f259774d3 "pdflatex"
   "main.tex" 1738592468 5165 afd68c399a2e56ee9ccfa10ea83354af ""
-  "main.toc" 1738592479 361 a51bc8f967a39a636b1fdb0ea3fac4f3 "pdflatex"
+  "main.toc" 1738594693 361 a51bc8f967a39a636b1fdb0ea3fac4f3 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"

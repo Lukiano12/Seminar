@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.9)  3 FEB 2025 15:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.9)  3 FEB 2025 15:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1196,11 +1196,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6.5> on input line 147.
 
-Underfull \hbox (badness 1107) in paragraph at lines 148--148
-[]\OT1/cmr/m/n/12 Ivano Alo-gna, Chris-ti-ne Bak-ker und Jean-Pierre Gau-ci. \OT1/cmr/m/it/12 Cli-ma-te
- []
-
-
 Underfull \hbox (badness 1360) in paragraph at lines 148--148
 []\OT1/cmr/m/it/12 Armando Ferr~ao Car-val-ho and Others v. The Eu-ro-pean Par-lia-
  []
@@ -1261,17 +1256,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 ### semi simple group (level 1) entered at line 143 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 31147 strings out of 473576
- 634346 string characters out of 5714857
- 1507900 words of memory out of 5000000
- 53953 multiletter control sequences out of 15000+600000
+ 31143 strings out of 473576
+ 633942 string characters out of 5714857
+ 1508866 words of memory out of 5000000
+ 53950 multiletter control sequences out of 15000+600000
  563799 words of font info for 55 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  110i,25n,116p,2046b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (5 pages, 125116 bytes).
+Output written on main.pdf (5 pages, 123452 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
+ 151 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

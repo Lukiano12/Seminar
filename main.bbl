@@ -41,60 +41,38 @@
       \verb https://rwe.climatecase.org/de/news/artikel/8-jahre-klimaklage-gegen-rwe
       \endverb
     \endentry
-    \entry{alognaClimateChangeLitigation2021}{book}{}{}
-      \name{author}{3}{}{%
-        {{hash=2e913837ffbf4b542f32abd6ff8ff55e}{%
-           family={Alogna},
+    \entry{agreement2015paris}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=2f02bc8bbec23ded1f68469650423ca6}{%
+           family={Agreement},
            familyi={A\bibinitperiod},
-           given={Ivano},
-           giveni={I\bibinitperiod}}}%
-        {{hash=58a5964997aa267dea41c82b3f88c5a2}{%
-           family={Bakker},
-           familyi={B\bibinitperiod},
-           given={Christine},
-           giveni={C\bibinitperiod}}}%
-        {{hash=be786776a4eb7f37d026a546d6fe5f50}{%
-           family={Gauci},
-           familyi={G\bibinitperiod},
-           given={Jean-Pierre},
-           giveni={J\bibinithyphendelim P\bibinitperiod}}}%
+           given={Paris},
+           giveni={P\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Brill}%
+        {HeinOnline}%
       }
-      \strng{namehash}{c179a98a59e0cb2d7702f72a769a455c}
-      \strng{fullhash}{c179a98a59e0cb2d7702f72a769a455c}
-      \strng{fullhashraw}{c179a98a59e0cb2d7702f72a769a455c}
-      \strng{bibnamehash}{c179a98a59e0cb2d7702f72a769a455c}
-      \strng{authorbibnamehash}{c179a98a59e0cb2d7702f72a769a455c}
-      \strng{authornamehash}{c179a98a59e0cb2d7702f72a769a455c}
-      \strng{authorfullhash}{c179a98a59e0cb2d7702f72a769a455c}
-      \strng{authorfullhashraw}{c179a98a59e0cb2d7702f72a769a455c}
+      \strng{namehash}{2f02bc8bbec23ded1f68469650423ca6}
+      \strng{fullhash}{2f02bc8bbec23ded1f68469650423ca6}
+      \strng{fullhashraw}{2f02bc8bbec23ded1f68469650423ca6}
+      \strng{bibnamehash}{2f02bc8bbec23ded1f68469650423ca6}
+      \strng{authorbibnamehash}{2f02bc8bbec23ded1f68469650423ca6}
+      \strng{authornamehash}{2f02bc8bbec23ded1f68469650423ca6}
+      \strng{authorfullhash}{2f02bc8bbec23ded1f68469650423ca6}
+      \strng{authorfullhashraw}{2f02bc8bbec23ded1f68469650423ca6}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{"Climate Change Litigation: Global Perspectives" published on 26 Apr 2021 by Brill | Nijhoff.}
-      \field{day}{26}
-      \field{isbn}{978-90-04-44761-5}
-      \field{langid}{ngerman}
-      \field{month}{4}
-      \field{shorttitle}{Climate Change Litigation}
-      \field{title}{Climate Change Litigation: Global Perspectives}
-      \field{urlday}{15}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{year}{2021}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Report of the Conference of the Parties to the {{United Nations}} Framework Convention on Climate Change (21st Session, 2015: {{Paris}}). {{Retrived December}}}
+      \field{number}{2017}
+      \field{title}{Paris Agreement}
+      \field{volume}{4}
+      \field{year}{2015}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
-      \verb{urlraw}
-      \verb https://brill.com/edcollbook/title/59537
-      \endverb
-      \verb{url}
-      \verb https://brill.com/edcollbook/title/59537
-      \endverb
-      \keyw{Internationales Recht,Internationales Strafrecht,Menschenrechte und Humanitäres Recht,Umwelt- & Energierecht}
+      \field{pages}{2}
+      \range{pages}{1}
     \endentry
     \entry{ArmandoFerraoCarvalho}{online}{}{}
       \list{organization}{1}{%
@@ -724,72 +702,6 @@
       \verb 10.1017/S2047102522000103
       \endverb
     \endentry
-    \entry{nzaou-kongoClimateChangeLitigation2020}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=03869944a17dd1180b93a08169b780ea}{%
-           family={Nzaou-Kongo},
-           familyi={N\bibinithyphendelim K\bibinitperiod},
-           given={Aubin},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{03869944a17dd1180b93a08169b780ea}
-      \strng{fullhash}{03869944a17dd1180b93a08169b780ea}
-      \strng{fullhashraw}{03869944a17dd1180b93a08169b780ea}
-      \strng{bibnamehash}{03869944a17dd1180b93a08169b780ea}
-      \strng{authorbibnamehash}{03869944a17dd1180b93a08169b780ea}
-      \strng{authornamehash}{03869944a17dd1180b93a08169b780ea}
-      \strng{authorfullhash}{03869944a17dd1180b93a08169b780ea}
-      \strng{authorfullhashraw}{03869944a17dd1180b93a08169b780ea}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{ECLQ (Energy and Climate Law Quarterly)}
-      \field{langid}{english}
-      \field{shorttitle}{Climate {{Change Litigation}}. {{Regulatory Pathways}} to {{Cleaner Energy}}, by {{Jacqueline Peel}} and {{Hari M}}. {{Osofsky}}, {{Cambridge}}}
-      \field{title}{Climate {{Change Litigation}}. {{Regulatory Pathways}} to {{Cleaner Energy}}, by {{Jacqueline Peel}} and {{Hari M}}. {{Osofsky}}, {{Cambridge}}: {{Cambridge University Press}}, 2015, Pp. Ii, 351. {{Index}}}
-      \field{urlday}{16}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{volume}{Vol. 1, Issue 2, Book review}
-      \field{year}{2020}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{file}
-      \verb C:\Users\lnztadil\Zotero\storage\M2WHZZJL\hal-03129815.html
-      \endverb
-      \verb{urlraw}
-      \verb https://univ-lyon3.hal.science/hal-03129815
-      \endverb
-      \verb{url}
-      \verb https://univ-lyon3.hal.science/hal-03129815
-      \endverb
-    \endentry
-    \entry{ParisAgreement2016}{article}{}{}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{labeltitlesource}{title}
-      \field{annotation}{Context Object: ctx\_ver=Z39.88-2004\&rft\_val\_fmt=info\%3Aofi\%2Ffmt\%3Akev\%3Amtx\%3Ajournal\&rfr\_id=info\%3Asid\%2Focoins.info\%3Agenerator\&rft.genre=article\&rft.atitle=Paris Agreement\&rft.title=International Legal Materials\&rft.stitle=Int'l Legal Materials\&rft.date=2016\&rft.volume=55\&rft.spage=743\&rft\_id=https://heinonline.org/HOL/Page?handle\%3Dhein.journals/intlm55\%26id\%3D803\%26div\%3D\%26collection\%3D}
-      \field{journaltitle}{International Legal Materials}
-      \field{shortjournal}{Int'l Legal Materials}
-      \field{title}{Paris {{Agreement}}}
-      \field{volume}{55}
-      \field{year}{2016}
-      \field{dateera}{ce}
-      \true{nocite}
-      \field{pages}{743}
-      \range{pages}{1}
-      \verb{file}
-      \verb C:\Users\lnztadil\Zotero\storage\V492HMML\LandingPage.html
-      \endverb
-      \verb{urlraw}
-      \verb https://heinonline.org/HOL/Page?handle=hein.journals/intlm55&id=803&div=&collection=
-      \endverb
-      \verb{url}
-      \verb https://heinonline.org/HOL/Page?handle=hein.journals/intlm55&id=803&div=&collection=
-      \endverb
-    \endentry
     \entry{RechtlichesClimateCase2022}{online}{}{}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
@@ -893,6 +805,26 @@
       \endverb
       \verb{url}
       \verb https://www.shell.de/ueber-uns/newsroom/zur-sache/shell-begruesst-urteil-des-niederlaendischen-berufungsgerichts.html
+      \endverb
+    \endentry
+    \entry{ParisAgreementUNFCCC}{online}{}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{Paris Agreement}} | {{UNFCCC}}}
+      \field{urlday}{3}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb C:\Users\lnztadil\Zotero\storage\HC5JBWEF\the-paris-agreement.html
+      \endverb
+      \verb{urlraw}
+      \verb https://unfccc.int/process-and-meetings/the-paris-agreement
+      \endverb
+      \verb{url}
+      \verb https://unfccc.int/process-and-meetings/the-paris-agreement
       \endverb
     \endentry
     \entry{Vanhala01052013}{article}{}{}
