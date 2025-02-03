@@ -165,28 +165,6 @@
       \verb https://heinonline.org/HOL/Page?handle=hein.journals/elrna47&id=127&div=&collection=
       \endverb
     \endentry
-    \entry{BeschlussVom24}{online}{}{}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Verfassungsbeschwerden gegen das Klimaschutzgesetz teilweise erfolgreich}
-      \field{langid}{ngerman}
-      \field{title}{Beschluss vom 24. März 2021}
-      \field{urlday}{16}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{file}
-      \verb C:\Users\lnztadil\Zotero\storage\VIHZI8MM\rs20210324_1bvr265618.html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html
-      \endverb
-      \verb{url}
-      \verb https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html
-      \endverb
-    \endentry
     \entry{businessportalnorwegenNorwegischeUmweltorganisationenGewinnen2024}{online}{}{}
       \name{author}{1}{}{%
         {{hash=13dbc56f6d38fca381878ff72860812f}{%
@@ -229,6 +207,34 @@
       \verb{url}
       \verb https://businessportal-norwegen.com/2024/01/19/norwegische-umweltorganisationen-gewinnen-klimaklage-gegen-den-staat/
       \endverb
+    \endentry
+    \entry{de2016shell}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=64c4fd4e53bb124aa95d5140a6d4e30a}{%
+           family={De\bibnamedelima Groot},
+           familyi={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Cees},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{64c4fd4e53bb124aa95d5140a6d4e30a}
+      \strng{fullhash}{64c4fd4e53bb124aa95d5140a6d4e30a}
+      \strng{fullhashraw}{64c4fd4e53bb124aa95d5140a6d4e30a}
+      \strng{bibnamehash}{64c4fd4e53bb124aa95d5140a6d4e30a}
+      \strng{authorbibnamehash}{64c4fd4e53bb124aa95d5140a6d4e30a}
+      \strng{authornamehash}{64c4fd4e53bb124aa95d5140a6d4e30a}
+      \strng{authorfullhash}{64c4fd4e53bb124aa95d5140a6d4e30a}
+      \strng{authorfullhashraw}{64c4fd4e53bb124aa95d5140a6d4e30a}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Company Law}
+      \field{number}{3}
+      \field{title}{The ‘{{Shell}} Nigeria Issue’: Judgments by the Court of Appeal of {{The Hague}}, the {{Netherlands}}}
+      \field{volume}{13}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \true{nocite}
     \endentry
     \entry{deutschlandfunk.deKlimaschutzBerufungsgerichtEntscheidet2024}{online}{}{}
       \name{author}{1}{}{%
@@ -363,6 +369,38 @@
       \verb https://www.deutschlandfunk.de/shell-verliert-klima-prozess-das-urteil-von-den-haag-und-100.html
       \endverb
     \endentry
+    \entry{domans2021dutch}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=59bb0eba5507f5f00764c007bdeb01df}{%
+           family={Domans},
+           familyi={D\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f5f78257e2153602ecfbe8bc1601ea91}{%
+           family={Preston},
+           familyi={P\bibinitperiod},
+           given={MJ},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{620aae68cf8c1a9a965003d4fca87ba2}
+      \strng{fullhash}{620aae68cf8c1a9a965003d4fca87ba2}
+      \strng{fullhashraw}{620aae68cf8c1a9a965003d4fca87ba2}
+      \strng{bibnamehash}{620aae68cf8c1a9a965003d4fca87ba2}
+      \strng{authorbibnamehash}{620aae68cf8c1a9a965003d4fca87ba2}
+      \strng{authornamehash}{620aae68cf8c1a9a965003d4fca87ba2}
+      \strng{authorfullhash}{620aae68cf8c1a9a965003d4fca87ba2}
+      \strng{authorfullhashraw}{620aae68cf8c1a9a965003d4fca87ba2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cleary Gottlieb. June}
+      \field{title}{Dutch Court Order Shell to Reduce Emissions in First Climate Change Ruling against Company}
+      \field{volume}{30}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
     \entry{Frank2019}{incollection}{}{}
       \name{author}{3}{}{%
         {{hash=5baed3d4fa83b64104ae801dc6c329f2}{%
@@ -494,6 +532,36 @@
       \endverb
       \keyw{320,Artikel 2 Pariser Abkommen,Bridgetown-Agenda,COP28 Dubai,Global Stocktake,Globale Bestandsaufnahme,GST,IPCC,Klimaabkommen von Paris,Klimafinanzierung,Klimaprozess und wissenschaftliche Erkenntnisse,nationale Klimabeiträge,NDCs,Pariser Klimaabkommen,Prinzipien des Pariser Klimaabkommens,UN-Klimaprozess,UN-Klimarahmenkonvention,UNFCCC}
     \endentry
+    \entry{hesselman2024milieudefensie}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=5245ebffa1f1ffb2c656fa7ba1f28eec}{%
+           family={Hesselman},
+           familyi={H\bibinitperiod},
+           given={Marlies},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b70bf073aa0d3ae6d6bca4c3a2481a3e}{%
+           family={Tigre},
+           familyi={T\bibinitperiod},
+           given={Maria\bibnamedelima Antonia},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8415d920629ee69f9d10ea52ab2f88c7}
+      \strng{fullhash}{8415d920629ee69f9d10ea52ab2f88c7}
+      \strng{fullhashraw}{8415d920629ee69f9d10ea52ab2f88c7}
+      \strng{bibnamehash}{8415d920629ee69f9d10ea52ab2f88c7}
+      \strng{authorbibnamehash}{8415d920629ee69f9d10ea52ab2f88c7}
+      \strng{authornamehash}{8415d920629ee69f9d10ea52ab2f88c7}
+      \strng{authorfullhash}{8415d920629ee69f9d10ea52ab2f88c7}
+      \strng{authorfullhashraw}{8415d920629ee69f9d10ea52ab2f88c7}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Milieudefensie v Shell: 3 Takeaways and Challenges on the Appeal’s Court Decision}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
     \entry{Kanning_2024}{article}{}{}
       \name{author}{1}{}{%
         {{hash=b294699c2e3de1454766983c6fbf5b72}{%
@@ -551,6 +619,34 @@
       \verb{url}
       \verb https://www.luther-lawfirm.com/newsroom/blog/detail/klimaklage-urgenda-gegen-niederlande
       \endverb
+    \endentry
+    \entry{konneke2024deutsch}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=21a18cb92286c7c16f747d02a86ec9da}{%
+           family={Könneke},
+           familyi={K\bibinitperiod},
+           given={Jule},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {SWP-Aktuell}%
+      }
+      \strng{namehash}{21a18cb92286c7c16f747d02a86ec9da}
+      \strng{fullhash}{21a18cb92286c7c16f747d02a86ec9da}
+      \strng{fullhashraw}{21a18cb92286c7c16f747d02a86ec9da}
+      \strng{bibnamehash}{21a18cb92286c7c16f747d02a86ec9da}
+      \strng{authorbibnamehash}{21a18cb92286c7c16f747d02a86ec9da}
+      \strng{authornamehash}{21a18cb92286c7c16f747d02a86ec9da}
+      \strng{authorfullhash}{21a18cb92286c7c16f747d02a86ec9da}
+      \strng{authorfullhashraw}{21a18cb92286c7c16f747d02a86ec9da}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Die Deutsch-Brasilianische Partnerschaft Für Sozial-Ökologische Transformation: {{Bilaterale}} Zusammenarbeit Als Katalysator Für Den {{UN-klimaprozess}}}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
     \endentry
     \entry{ltoHistorischesKlimaurteilGegen2024}{online}{}{}
       \name{author}{1}{}{%
@@ -718,6 +814,59 @@
       \verb{url}
       \verb https://rwe.climatecase.org/de/rechtliches
       \endverb
+    \endentry
+    \entry{sato2024impacts}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=c7fd8940f678afaaaca6fdffb35d8c0e}{%
+           family={Sato},
+           familyi={S\bibinitperiod},
+           given={Misato},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1f3424af18be6a0e8d2a3c4ab1213c21}{%
+           family={Gostlow},
+           familyi={G\bibinitperiod},
+           given={Glen},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a6c90cdce8ccb8ac4af2a8bd369f55b8}{%
+           family={Higham},
+           familyi={H\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6ea382acbc5fd29fdd24d0047e95bd89}{%
+           family={Setzer},
+           familyi={S\bibinitperiod},
+           given={Joana},
+           giveni={J\bibinitperiod}}}%
+        {{hash=02948936b3d3f1147411855822ceba75}{%
+           family={Venmans},
+           familyi={V\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group UK London}%
+      }
+      \strng{namehash}{63e331c47b3b20761063fd269e8d74dd}
+      \strng{fullhash}{2ac316c22f16f0821b86d9997eef7ed2}
+      \strng{fullhashraw}{2ac316c22f16f0821b86d9997eef7ed2}
+      \strng{bibnamehash}{63e331c47b3b20761063fd269e8d74dd}
+      \strng{authorbibnamehash}{63e331c47b3b20761063fd269e8d74dd}
+      \strng{authornamehash}{63e331c47b3b20761063fd269e8d74dd}
+      \strng{authorfullhash}{2ac316c22f16f0821b86d9997eef7ed2}
+      \strng{authorfullhashraw}{2ac316c22f16f0821b86d9997eef7ed2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Sustainability}
+      \field{number}{11}
+      \field{title}{Impacts of Climate Litigation on Firm Value}
+      \field{volume}{7}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{1461\bibrangedash 1468}
+      \range{pages}{8}
     \endentry
     \entry{ShellBegruesstUrteil2024}{online}{}{}
       \field{sortinit}{S}
