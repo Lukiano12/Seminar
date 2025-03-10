@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.9)  7 FEB 2025 10:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.9)  10 MAR 2025 14:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"g:/Seminar Gliederung und Literaturverzeichnis/main.tex"
-(g:/Seminar Gliederung und Literaturverzeichnis/main.tex
+**g:/Seminar/main.tex
+(g:/Seminar/main.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-09>
 (C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -1197,7 +1197,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6.5> on input line 154.
 
-Underfull \hbox (badness 1360) in paragraph at lines 155--155
+Underfull \hbox (badness 1360) in paragraph at lines 154--154
 []\OT1/cmr/m/it/12 Armando Ferr~ao Car-val-ho and Others v. The Eu-ro-pean Par-lia-
  []
 
@@ -1258,12 +1258,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 ### bottom level 
 Here is how much of TeX's memory you used:
  31159 strings out of 473576
- 634185 string characters out of 5714857
- 1508876 words of memory out of 5000000
+ 633783 string characters out of 5714857
+ 1508884 words of memory out of 5000000
  53959 multiletter control sequences out of 15000+600000
  564404 words of font info for 57 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 110i,25n,116p,2046b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,25n,116p,2008b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
 Output written on main.pdf (5 pages, 135734 bytes).
 PDF statistics:

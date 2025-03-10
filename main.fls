@@ -1,6 +1,6 @@
-PWD g:\Seminar Gliederung und Literaturverzeichnis
+PWD g:\Seminar
 INPUT C:\Users\lnztadil\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT g:\Seminar Gliederung und Literaturverzeichnis\main.tex
+INPUT g:\Seminar\main.tex
 OUTPUT main.log
 INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\lnztadil\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls

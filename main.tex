@@ -81,7 +81,7 @@
 \newcommand{\abgabe}{}
 \newcommand{\bearbeitungszeitraum}{}
 \newcommand{\matrikelnr}{5726700}
-\newcommand{\kurs}{TFE22-1}
+\newcommand{\kurs}{TFE22–1}
 \newcommand{\firma}{}
 \newcommand{\betreuerfirma}{}
 \newcommand{\gutachterdhbw}{}
@@ -90,7 +90,7 @@
 %---------------------------------------------------------
 % Header und Footer mit Linien
 %---------------------------------------------------------
-\clearpairofpagestyles         % Standard-Stile löschen
+\clearpairofpagestyles{}         % Standard-Stile löschen
 
 % Header with consistent logo placement and line position
 \ohead{%
@@ -108,7 +108,7 @@
     \rule{\textwidth}{0.4pt}\\ % Horizontal rule
     \vspace{0.3em} % Small vertical space
     \begin{tabular}{@{}p{0.33\textwidth}p{0.33\textwidth}p{0.33\textwidth}@{}}
-        \arbeit & \centering \autor & \raggedleft \thepage
+        \arbeit~& \centering \autor~& \raggedleft~\thepage%
     \end{tabular}
 }
 
@@ -151,6 +151,6 @@
 \renewcommand{\bibfont}{\fontsize{13pt}{12pt}\selectfont}  
 \sloppy
 \nocite{*}
-\printbibliography
+\printbibliography{}
 
 \end{document}
