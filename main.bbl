@@ -30,7 +30,6 @@
       \field{urlmonth}{1}
       \field{urlyear}{2025}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{file}
       \verb C:\Users\lnztadil\Zotero\storage\Z6LKZACF\8-jahre-klimaklage-gegen-rwe.html
       \endverb
@@ -70,7 +69,6 @@
       \field{volume}{4}
       \field{year}{2015}
       \field{dateera}{ce}
-      \true{nocite}
       \field{pages}{2}
       \range{pages}{1}
     \endentry
@@ -87,7 +85,6 @@
       \field{urlmonth}{1}
       \field{urlyear}{2025}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{file}
       \verb C:\Users\lnztadil\Zotero\storage\3HCGRWK6\armando-ferrao-carvalho-and-others-v-the-european-parliament-and-the-council.html
       \endverb
@@ -130,7 +127,6 @@
       \field{volume}{47}
       \field{year}{2017}
       \field{dateera}{ce}
-      \true{nocite}
       \field{pages}{10121}
       \range{pages}{1}
       \verb{file}
@@ -175,7 +171,6 @@
       \field{year}{2024}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{file}
       \verb C:\Users\lnztadil\Zotero\storage\6JACDLW6\norwegische-umweltorganisationen-gewinnen-klimaklage-gegen-den-staat.html
       \endverb
@@ -212,7 +207,6 @@
       \field{volume}{13}
       \field{year}{2016}
       \field{dateera}{ce}
-      \true{nocite}
     \endentry
     \entry{deutschlandfunk.deKlimaschutzBerufungsgerichtEntscheidet2024}{online}{}{}
       \name{author}{1}{}{%
@@ -247,7 +241,6 @@
       \field{year}{2024}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{file}
       \verb C:\Users\lnztadil\Zotero\storage\84GNXNE9\berufungsgericht-entscheidet-im-prozess-gegen-shell-100.html
       \endverb
@@ -292,7 +285,6 @@
       \field{year}{2024}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{file}
       \verb C:\Users\lnztadil\Zotero\storage\9G6PR9R2\kommentar-urteil-shell-100.html
       \endverb
@@ -336,7 +328,6 @@
       \field{year}{2021}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{file}
       \verb C:\Users\lnztadil\Zotero\storage\CFK77YP7\shell-verliert-klima-prozess-das-urteil-von-den-haag-und-100.html
       \endverb
@@ -377,7 +368,6 @@
       \field{volume}{30}
       \field{year}{2021}
       \field{dateera}{ce}
-      \true{nocite}
     \endentry
     \entry{Frank2019}{incollection}{}{}
       \name{author}{3}{}{%
@@ -452,7 +442,6 @@
       \field{title}{The Case of Huaraz: {{First}} Climate Lawsuit on Loss and Damage against an Energy Company before German Courts}
       \field{year}{2019}
       \field{dateera}{ce}
-      \true{nocite}
       \field{pages}{475\bibrangedash 482}
       \range{pages}{8}
       \verb{doi}
@@ -498,7 +487,6 @@
       \field{type}{SWP-Aktuell}
       \field{year}{2023}
       \field{dateera}{ce}
-      \true{nocite}
       \verb{doi}
       \verb 10.18449/2023A46
       \endverb
@@ -538,7 +526,6 @@
       \field{title}{Milieudefensie v Shell: 3 Takeaways and Challenges on the Appeal’s Court Decision}
       \field{year}{2024}
       \field{dateera}{ce}
-      \true{nocite}
     \endentry
     \entry{Kanning_2024}{article}{}{}
       \name{author}{1}{}{%
@@ -566,7 +553,6 @@
       \field{volume}{15}
       \field{year}{2024}
       \field{dateera}{ce}
-      \true{nocite}
       \field{pages}{201\bibrangedash 207}
       \range{pages}{7}
       \verb{doi}

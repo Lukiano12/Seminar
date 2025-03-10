@@ -1,14 +1,16 @@
 # Fdb version 4
-["biber main"] 1738594669.51165 "main.bcf" "main.bbl" "main" 1741612240.22294 0
+["biber main"] 1741617408.05644 "main.bcf" "main.bbl" "main" 1741617424.24649 0
   "literatur.bib" 1738594662 15000 3dbe7758723e90b0332683358877a495 ""
-  "main.bcf" 1741612237 108556 0e3bab7c713e3380c6b13d1ecee53ced "pdflatex"
+  "main.bcf" 1741617421 109729 e61cc959d3d40af479daa338c80c05ee "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1741612233.58582 "g:/Seminar/main.tex" "main.pdf" "main" 1741612240.25063 0
+["pdflatex"] 1741617417.78951 "g:/Seminar/main.tex" "main.pdf" "main" 1741617424.25705 0
   "C:/Users/lnztadil/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1741006485 122523 388333b97d2e433b66eb03fb8990bdc8 ""
+  "C:/Users/lnztadil/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1741613256 14064 df4676c093c4e71a0ed09badf2e7261b ""
   "C:/Users/lnztadil/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1736418097 11995304 639aba1e8c212e3b0ab6a8aed7b309d5 ""
+  "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1200.tfm" 993058908 1444 95ffe0f19b974d50849790c8225c7ef7 ""
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmcsc10.tfm" 1136765053 1300 63a6111ee6274895728663cf4b4e7e81 ""
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -30,6 +32,7 @@
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247593066 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247593067 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247593067 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247593067 32726 39f0f9e62e84beb801509898a605dbd5 ""
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247593067 36118 fad905eba93cff5bce1e185fe980a177 ""
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb" 1247593066 24252 1e4e051947e12dfb50fee0b7f4e26e3a ""
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -150,14 +153,14 @@
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729261622 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656233319 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693732032 123 a302f2c651a95033260db60e51527ae8 ""
-  "g:/Seminar/main.tex" 1741612230 5604 ee9f465b1594fd6d43041e108dde3c52 ""
+  "g:/Seminar/main.tex" 1741617401 25148 0066c94ecb15667a6cbfa1ed54ccc71a ""
   "images/DHBW_d_R_FN_46mm_4c.jpg" 1736232917 17946 50287553cf5cb047b6c145a2811653f1 ""
-  "main.aux" 1741612237 4166 86038ba2a50d9d7f527927b65b1b8eae "pdflatex"
-  "main.bbl" 1738594678 41376 a53f03fb59ed41a6bf2649dbdf8625af "biber main"
-  "main.out" 1741612237 2602 0a63168a467d59870e605981e512039c "pdflatex"
-  "main.run.xml" 1741612237 2334 1b5b1514c9fec959a0c2940f259774d3 "pdflatex"
-  "main.tex" 1741612230 5604 ee9f465b1594fd6d43041e108dde3c52 ""
-  "main.toc" 1741612238 1150 4689db688a510abfd4e86a5ac2853640 "pdflatex"
+  "main.aux" 1741617420 5651 e2042cda6ce32316475119898a7cc921 "pdflatex"
+  "main.bbl" 1741617412 41082 d7e3971633956ed34e2468f5b46dd76a "biber main"
+  "main.out" 1741617420 2744 3bebaa87e43227407aa1e05688340d44 "pdflatex"
+  "main.run.xml" 1741617421 2334 1b5b1514c9fec959a0c2940f259774d3 "pdflatex"
+  "main.tex" 1741617401 25148 0066c94ecb15667a6cbfa1ed54ccc71a ""
+  "main.toc" 1741617421 1225 2e6914ea5bce1b0cc6b93d68b88c006c "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"

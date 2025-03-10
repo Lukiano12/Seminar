@@ -11,3 +11,4 @@
 \contentsline {subsection}{\numberline {3.3}Klimaklage der Stiftung Urgenda gegen den niederländischen Staat}{2}{subsection.3.3}%
 \contentsline {section}{\numberline {4}Fazit}{2}{section.4}%
 \contentsline {section}{\numberline {5}Quellen}{2}{section.5}%
+\contentsline {section}{\numberline {6}Stichpunkte Quellen}{3}{section.6}%
