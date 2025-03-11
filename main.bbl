@@ -573,7 +573,6 @@
       \field{urlmonth}{1}
       \field{urlyear}{2025}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{file}
       \verb C:\Users\lnztadil\Zotero\storage\EV28S78Q\klimaklage-urgenda-gegen-niederlande.html
       \endverb
@@ -610,7 +609,6 @@
       \field{title}{Die Deutsch-Brasilianische Partnerschaft Für Sozial-Ökologische Transformation: {{Bilaterale}} Zusammenarbeit Als Katalysator Für Den {{UN-klimaprozess}}}
       \field{year}{2024}
       \field{dateera}{ce}
-      \true{nocite}
     \endentry
     \entry{ltoHistorischesKlimaurteilGegen2024}{online}{}{}
       \name{author}{1}{}{%
@@ -644,7 +642,6 @@
       \field{year}{2024}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{file}
       \verb C:\Users\lnztadil\Zotero\storage\3GA99P53\klimaschutz-shell-berufungsinstanz-den-haag-umweltvoelkerrecht.html
       \endverb
@@ -681,7 +678,6 @@
       \field{volume}{11}
       \field{year}{2022}
       \field{dateera}{ce}
-      \true{nocite}
       \field{pages}{407\bibrangedash 418}
       \range{pages}{12}
       \verb{doi}
@@ -702,7 +698,6 @@
       \field{year}{2022}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{file}
       \verb C:\Users\lnztadil\Zotero\storage\YUAQWCV3\rechtliches.html
       \endverb
@@ -762,7 +757,6 @@
       \field{volume}{7}
       \field{year}{2024}
       \field{dateera}{ce}
-      \true{nocite}
       \field{pages}{1461\bibrangedash 1468}
       \range{pages}{8}
     \endentry
@@ -782,7 +776,6 @@
       \field{year}{2024}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{file}
       \verb C:\Users\lnztadil\Zotero\storage\UJ6XMQIS\shell-begruesst-urteil-des-niederlaendischen-berufungsgerichts.html
       \endverb
@@ -802,7 +795,6 @@
       \field{urlmonth}{2}
       \field{urlyear}{2025}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{file}
       \verb C:\Users\lnztadil\Zotero\storage\HC5JBWEF\the-paris-agreement.html
       \endverb
@@ -842,7 +834,6 @@
       \field{volume}{22}
       \field{year}{2013}
       \field{dateera}{ce}
-      \true{nocite}
       \field{pages}{447\bibrangedash 474}
       \range{pages}{28}
       \verb{doi}
